@@ -1,0 +1,23 @@
+{
+    "name": "Omar Abudeh",
+    "website": "lookthinkfeel.com",
+    "linkedin": "https://www.linkedin.com/in/omar-abudeh/",
+    "github": "https://github.com/evolvd444",
+    "email": "omarevolving@gmail.com",
+    "resume": "",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django"
+        
+    ],
+    "otherSkills": [
+        "Certified Human Potential Coach",
+        "Certified in the Science of Well Being from Yale",
+        "Licensed Master Barber"
+    ]
+}
